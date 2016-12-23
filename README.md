@@ -1,6 +1,6 @@
 # metalsmith-sass-critical-example
 
-Critical Styles in a Sass Metalsmith Project Example
+Example of Critical Styles in a Sass Metalsmith Project. [Read the post about about the concept](https://www.ianrose.me/articles/critical-styles-in-a-sass-metalsmith-project/).
 
 ## Example Render
 
@@ -12,10 +12,10 @@ Critical Styles in a Sass Metalsmith Project Example
 
 ## Setup
 
-### 1. Clone
+### 1. Clone 
 
 ```
-git clone 
+git clone https://github.com/ianrose/metalsmith-sass-critical-example.git
 ```
 
 ### 2. Install Dependencies
