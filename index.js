@@ -11,7 +11,7 @@ Metalsmith(__dirname)
     outputDir: 'styles'
   }))
   .use(filedata({
-    pattern: ['styles/*.css', 'scripts/*.js'],
+    pattern: ['styles/*.css'],
     key: 'cssData'
   }))
   .use(markdown())
