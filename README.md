@@ -1,6 +1,6 @@
 # metalsmith-sass-critical-example
 
-Example of Critical Styles in a Sass Metalsmith Project. [Read the post about about the concept](https://www.ianrose.me/articles/critical-styles-in-a-sass-metalsmith-project/).
+Example of Critical Styles in a Sass Metalsmith Project. [Read the post about the concept](https://www.ianrose.me/articles/critical-styles-in-a-sass-metalsmith-project/).
 
 ## Example Render
 
